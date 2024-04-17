@@ -96,7 +96,7 @@ function home()
 }
 function puzzle()
 {
-   
+   alert("Test")
 // Å gjøre: Gi bedre navn til alle tingene.
 /*
     let place1 = false;
