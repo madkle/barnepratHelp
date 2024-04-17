@@ -126,7 +126,7 @@ function puzzle()
 */
     const bird = new Blocks.Image("bilder/drage1.jpg", {x:500,y:660,width:450,height:550});
     Actions.Click(bird, ()=>{
-       
+        bird = new Blocks.Image("bilder/drage4.jpg", {x:500,y:660,width:450,height:550});
         //if (place1 && place2 && place3 && place4) {
             alert("Well done!");
         //}
